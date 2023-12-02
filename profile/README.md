@@ -3,6 +3,6 @@
 🇷🇺 Pixelate It - некоммерческая организация, ориентированная на русскоговорящую аудиторию, созданая для скрашивания серых дней
 
 # Our social networks (наши социальные сети)
-[![Discord](./assets/discord.svg)](https://pixelbattle.fun/) [![Youtube](./assets/youtube.svg)](https://pixelbattle.fun/)
+[![Discord](https://raw.githubusercontent.com/pixelate-it/.github/main/profile/assets/discord.svg)](https://discord.gg/XBPyGUv3DT) [![Youtube](https://raw.githubusercontent.com/pixelate-it/.github/main/profile/assets/youtube.svg)](https://www.youtube.com/@pixelate-it)
 
 Icons by [Icons8](https://icons8.ru/)
