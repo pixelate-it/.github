@@ -5,8 +5,8 @@
 
 ---
 <p align="left">
-  <img title="Наш дискорд" src="assets/discord.svg" width=50 alt="Discord logo"> 
-  <img title="Наш ютуб канал" src="assets/youtube.svg" width=50 alt="Youtube logo">
+  <img title="Наш дискорд" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/discord.svg" width=55 alt="Discord logo"> 
+  <img title="Наш ютуб канал" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/youtube.svg" width=55 alt="Youtube logo">
 </p>
 
 Icons by Icons8<sub>[[]](https://icons8.ru/)</sub>
