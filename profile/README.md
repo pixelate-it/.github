@@ -1,3 +1,7 @@
+<p align="center">
+  <img title="Логотип и название" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/pixelateit-title.png" alt="PixelateIt Logo">
+</p>
+
 # Welcome (Добро пожаловать)
 🇺🇸 Pixelate It - a non-profit company focused on the Russian-speaking audience, created to brighten up the gray days
 
