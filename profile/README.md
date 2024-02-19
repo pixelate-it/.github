@@ -1,6 +1,17 @@
 <p align="center">
     <img title="Логотип и название" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/pixelateit-title.png" alt="PixelateIt Logo">
 </p>
+<details>
+<summary>Click to see text logo</summary>
+
+```
+  ____    _                 _           _              ___   _     _ 
+ |  _ \  (_) __  __   ___  | |   __ _  | |_    ___    |_ _| | |_  | |
+ | |_) | | | \ \/ /  / _ \ | |  / _` | | __|  / _ \    | |  | __| | |
+ |  __/  | |  >  <  |  __/ | | | (_| | | |_  |  __/    | |  | |_  |_|
+ |_|     |_| /_/\_\  \___| |_|  \__,_|  \__|  \___|   |___|  \__| (_)
+```
+</details>
 
 <h1 align="center">Welcome / Добро пожаловать</h1>
 
@@ -17,8 +28,8 @@
     src="https://github.com/pixelate-it/.github/raw/main/profile/assets/logotype.png">
 </a>
     
-<a href="https://pixelbattle.fun">Play</a> |
-<a href="https://help.pixelbattle.fun/">Help</a> |
+<a href="https://pixelbattle.fun">Play</a> •
+<a href="https://help.pixelbattle.fun/">Help</a> •
 <a href="https://help.pixelbattle.fun/schedule">Schedule</a>
 </h3>
 
@@ -34,6 +45,6 @@ Our Social Networks / Наши социальные сети
 </h3>
 
 <p align="right">
-    <img title="Our Discord Server / Наш дискорд" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/discord.min.svg" width=50 alt="Discord logo">
-    <img title="Our Youtube Channel / Наш ютуб канал" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/youtube.min.svg" width=50 alt="Youtube logo">
+    <img title="Our Discord Server / Наш дискорд" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/discord.min.svg" width=50 hspace=6 alt="Discord logo">
+    <img title="Our Youtube Channel / Наш ютуб канал" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/youtube.min.svg" width=50 hspace=6 alt="Youtube logo">
 </p>
