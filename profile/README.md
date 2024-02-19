@@ -1,17 +1,6 @@
 <p align="center">
     <img title="Логотип и название" src="https://github.com/pixelate-it/.github/raw/main/profile/assets/pixelateit-title.png" alt="PixelateIt Logo">
 </p>
-<details>
-<summary>Click to see text logo</summary>
-
-```
-  ____    _                 _           _              ___   _     _ 
- |  _ \  (_) __  __   ___  | |   __ _  | |_    ___    |_ _| | |_  | |
- | |_) | | | \ \/ /  / _ \ | |  / _` | | __|  / _ \    | |  | __| | |
- |  __/  | |  >  <  |  __/ | | | (_| | | |_  |  __/    | |  | |_  |_|
- |_|     |_| /_/\_\  \___| |_|  \__,_|  \__|  \___|   |___|  \__| (_)
-```
-</details>
 
 <h1 align="center">Welcome / Добро пожаловать</h1>
 
@@ -33,10 +22,14 @@
 <a href="https://help.pixelbattle.fun/schedule">Schedule</a>
 </h3>
 
-### Sources
-<a href="https://github.com/pixelate-it/pixelbattle-frontend">FrontEnd</a> | 
-<a href="https://github.com/pixelate-it/pixelbattle-backend">BackEnd</a> | 
-<a href="https://github.com/pixelate-it/pixelbattle-bot">Discord Bot</a>
+<details>
+<summary>Source code</summary>
+^ <a href="https://github.com/pixelate-it/pixelbattle-backend">BackEnd</a>
+<br>
+^ <a href="https://github.com/pixelate-it/pixelbattle-frontend">FrontEnd</a>
+<br>
+^ <a href="https://github.com/pixelate-it/pixelbattle-bot">Discord Bot</a>
+</details>
 </div>
 
 ---
