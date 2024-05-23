@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Логотип и название" src="https://raw.githubusercontent.com/pixelate-it/.github/master/profile/assets/pixelateit-title.png" alt="PixelateIt Logo">
+    <img title="Логотип и название" src="https://raw.githubusercontent.com/pixelate-it/.github/master/profile/assets/pixelateit-title.gif" alt="PixelateIt Logo">
 </p>
 
 <h1 align="center">Welcome / Добро пожаловать</h1>
